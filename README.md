@@ -1,7 +1,5 @@
 # My Website
 
-intended for GIT, auto testing
-
-This is an eddit made in branch example . 
+Intended for GIT, auto testing
 
 Now edditing on update-readme branch
